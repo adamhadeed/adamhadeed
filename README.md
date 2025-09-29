@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=adamhadeed&label=Profile%20views&color=0e75b6&style=flat" alt="adamhadeed" /> </p>
 
-- 🔭 I’m currently working on [TEDxUTM Website project](nnti)
+- 🔭 I’m currently working on TEDxUTM Website
 
 - 🌱 I’m currently taking **Bachelor of Computer Science (Graphics and Multimedia Software)**
 
