@@ -8,7 +8,7 @@
 - 🌱 I’m currently taking **Bachelor of Computer Science (Graphics and Multimedia Software)**
 
 <h3 align="left">Connect with me:</h3>
-<p align="left"> **muhammadadamluqman@graduate.utm.my**
+<p align="left"> muhammadadamluqman@graduate.utm.my
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
