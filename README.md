@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Muhammad Adam Luqman bin Hamzah</h1>
-<h3 align="center">A passionate front end developer from Malaysia</h3>
+<h1 align="center">Hi 👋, I'm Adam</h1>
+<h3 align="center">Being creative is free therapy.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=adamhadeed&label=Profile%20views&color=0e75b6&style=flat" alt="adamhadeed" /> </p>
 
@@ -7,20 +7,8 @@
 
 - 🌱 I’m currently taking **Bachelor of Computer Science (Graphics and Multimedia Software)**
 
-- 👯 I’m looking to collaborate on [tak tahu](nnti la)
-
-- 🤝 I’m looking for help with [idk](huhu)
-
-- 👨‍💻 All of my projects are available at [nnti bagi](nnti bagi)
-
-- 📝 I regularly write articles on [nnti](nnti)
-
-- 📫 How to reach me **muhammadadamluqman@graduate.utm.my**
-
-- 📄 Know about my experiences [nnti](nnti)
-
 <h3 align="left">Connect with me:</h3>
-<p align="left">
+<p align="left"> **muhammadadamluqman@graduate.utm.my**
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
